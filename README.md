@@ -1,7 +1,7 @@
 ## *Hola!* 🤝
 🔭Thanks for visiting my profile!<br><br>
 
-# 💫 About Me
+## 💫 About Me
 
 🌱Who am I?<br>
    *Just an explorer in the odyssey of code*
